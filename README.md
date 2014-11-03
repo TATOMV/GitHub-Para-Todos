@@ -2,9 +2,9 @@
 
 ir a mi e mail [enlace](http://mail.ies21.edu.ar "mail de ies").
 
-> Es nuestro arenero personal
+> Para aprender las sentencias [enlace] (joedicastro.com)
 
-Pueden:
+ueden:
 
 - Borrarme
 - Modificarme
