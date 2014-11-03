@@ -11,7 +11,7 @@ ueden:
 - Dejarme como está y agregar nuevas carpetas
 - [Desde acá me "copian"](https://github.com/acercadelaeducacion/GitHub-Para-Todos/fork)
 - 
-[beemo](http://www.gifandgif.es/gifs_animados/Perros/Gifs%20Animados%20Perros%20(15).gif)
+![beemo](http://www.gifandgif.es/gifs_animados/Perros/Gifs%20Animados%20Perros%20(15).gif)
 
 ![beemo](http://media.giphy.com/media/Uoyf084JYOblK/giphy.gif "Este texto aparece cuando el mouse está sobre la imagen")
 
