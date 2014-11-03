@@ -4,6 +4,10 @@ ir a mi e mail [enlace](http://mail.ies21.edu.ar "mail de ies").
 
 > Para aprender las sentencias [enlace] (http://joedicastro.com/pages/markdown.html)
 
+cuando hago la pagina estatica la encontrare en 
+
+[enlace](http://TATOMV.github.io/GitHub-Para-Todos)
+
 
 - Borrarme
 - Modificarme
