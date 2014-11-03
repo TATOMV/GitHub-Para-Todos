@@ -2,7 +2,7 @@
 
 ir a mi e mail [enlace](http://mail.ies21.edu.ar "mail de ies").
 
-> Para aprender las sentencias [enlace] (http://joedicastro.com)
+> Para aprender las sentencias [enlace] (http://http://joedicastro.com/pages/markdown.html)
 
 ueden:
 
